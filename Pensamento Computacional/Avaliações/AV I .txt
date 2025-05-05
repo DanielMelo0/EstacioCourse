@@ -1,0 +1,116 @@
+1) (AVALIA/2023) Existem vários tipos de softwares no mercado, alguns são livres e outros proprietários. É correto afirmar que é uma característica do software proprietário:
+
+A - São os programas com um autor definido que negam o acesso livre ao código fonte, seja para modificá-lo, estudá-lo ou distribuí-lo.
+B - A liberdade de executar o programa como você desejar, para qualquer propósito.
+C - A liberdade de redistribuir as cópias livremente do software.
+D -A liberdade de distribuir cópias de suas versões modificadas. Desta forma, pode-se dar a toda a comunidade a chance de se beneficiar com as mudanças. Mas sem acesso ao código-fonte, que é de propriedade do desenvolvedor.
+E - A liberdade de acessar o código-fonte, mas não pode modificá-lo, apenas disponibilizar novas ferramentas a partir do que já existe.
+
+
+2) Conforme estudamos, a Lei de Moore é uma observação, feita originalmente por Gordon Moore, cofundador da Intel. Analise as afirmações abaixo, e selecione as que podem ser atribuídas como consequências da Lei de Moore, ao longo das últimas décadas
+
+I - A redução do custo de computadores, a ponto de serem usados em todos os setores do mercado de trabalho, tanto na esfera pública quanto privada.
+
+II - Aumento do poder computacional disponível ao público. Por exemplo, um computador pessoal (PC) modelo possui, atualmente, mais poder de processamento do que todo o poder computacional do planeta nos anos 60.
+
+III - O aumento do custo de computadores. Mesmo assim, eles têm sido usados em todos os setores do mercado de trabalho, tanto na esfera pública quanto privada.
+
+A - I e III
+B - I e II
+C - Somente I
+D - Somente III
+E - II e III
+
+3 ) (INSTITUTO AOCP/2020 - Adaptada) Com 40 trilhões de gigabytes de dados gerados no mundo no último ano, profissionais com habilidade para traduzir informações em decisões estratégicas serão essenciais dentro das empresas.
+
+Nesse sentido, a unidade métrica de um sistema computacional representada por 1 ZB (zettabyte) corresponde a:
+
+A - 1024 TB (terabyte).
+B - 1024 YB (yotabyte).
+C - 1024 PB (petabyte).
+D - 1024 EB (exabyte).
+E - 1024 HB (hyperbyte).
+
+4) Estudamos sobre a equação essencial dos computadores. Segundo o que estudamos, os computadores são inacreditavelmente rápidos. A segunda característica fundamental é:
+
+A - São inteligentes.
+B - São lentos.
+C - São tolos.
+D - Processam instruções complexas.
+E - Possuem capacidade de compreensão dos dados.
+O ChatGPT disse:
+
+Claro! Aqui estão as respostas corretas para cada questão:
+
+1) (AVALIA/2023) Sobre software proprietário:
+
+A alternativa correta é:
+
+A - São os programas com um autor definido que negam o acesso livre ao código fonte, seja para modificá-lo, estudá-lo ou distribuí-lo.
+
+2) Sobre a Lei de Moore:
+
+As consequências corretas são:
+
+I - Redução do custo dos computadores.
+II - Aumento do poder computacional disponível ao público.
+
+Portanto, a resposta correta é:
+
+B - I e II.
+
+3) Sobre a unidade métrica (zettabyte):
+
+1 ZB = 1024 exabytes.
+
+Portanto, a alternativa correta é:
+
+D - 1024 EB (exabyte).
+
+4) Sobre a segunda característica fundamental dos computadores:
+
+Além de serem rápidos, os computadores são tolos (eles só fazem o que são instruídos a fazer, sem iniciativa própria).
+
+Portanto, a resposta correta é:
+
+C - São tolos.
+
+1) Carolina é uma desenvolvedora web e está trabalhando em um projeto que envolve a exibição de imagens em um site. Ela recebeu uma solicitação do cliente para implementar uma funcionalidade que permita aumentar o zoom de uma imagem quando o usuário interagir com ela. Carolina está revisando o código fonte e percebeu que existem diferentes parâmetros e propriedades que podem ser manipulados para alcançar esse objetivo. No entanto, ela não tem certeza qual é o parâmetro correto a ser utilizado. Com base na necessidade de aumentar o zoom de uma imagem no código fonte, assinale a alternativa que indica o parâmetro mais apropriado a ser manipulado:
+
+A - setResolution.
+B - setEscale.
+C = setZoom.
+D = setOpacity.
+E - setSize
+
+2) O pensamento educacional pode ser dividido em quatro eixos estruturantes: decomposição, abstração, reconhecimento de padrões e algoritmos. Preferencialmente, o pensamento educacional deve ser ensinado:
+
+A - A partir do Nível Superior, para alunos dos cursos de Tecnologia da Informação.
+B - A partir do Nível Superior, para alunos de todos os cursos.
+C - A partir do Ensino Médio, para alunos que desejam cursar a área de exatas.
+D - A partir do Ensino Médio, para todos os alunos.
+E - Desde o Ensino Fundamental, para todos os alunos.
+
+3) Uma agência de design gráfico está trabalhando em um projeto que exige a criação de gráficos digitais e ilustrações com uma paleta de cores rica e diversificada. Por que a agência deve utilizar o modelo RGB para este projeto?
+
+A = Para simplificar a estrutura de dados dos gráficos
+B - Para reduzir o tempo de processamento das imagens
+C - Para facilitar a conversão das imagens para grayscale
+D = Para facilitar a conversão das imagens para grayscale
+E - Para reduzir a quantidade de dados armazenados
+
+4) Uma empresa de tecnologia está desenvolvendo um sistema de visão computacional para reconhecimento facial em tempo real. Por que a empresa deve utilizar imagens em grayscale para o sistema de visão computacional?
+
+A- Para aumentar o uso de memória do sistema
+B- Para simplificar a identificação de áreas homogêneas
+C- Para melhorar a qualidade visual das imagens de reconhecimento
+D- Para permitir a criação de gráficos coloridos
+E- Para garantir a consistência das cores nas imagens
+
+5) Um hospital utiliza imagens para diagnosticar doenças. Recentemente, eles decidiram implementar um sistema de processamento de imagens para analisar raios-X e tomografias. Por que o hospital deve usar imagens em grayscale para este sistema?
+
+A-Para melhorar a fidelidade das cores das imagens
+B-Para reduzir o tempo e a complexidade do processamento das imagens
+C-Para criar imagens artísticas dos exames médicos
+D-Para facilitar a impressão colorida dos relatórios médicos
+E-Para garantir que todas as imagens tenham a mesma resolução

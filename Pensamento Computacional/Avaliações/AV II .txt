@@ -1,0 +1,41 @@
+
+
+1) Carolina é uma desenvolvedora web e está trabalhando em um projeto que envolve a exibição de imagens em um site. Ela recebeu uma solicitação do cliente para implementar uma funcionalidade que permita aumentar o zoom de uma imagem quando o usuário interagir com ela. Carolina está revisando o código fonte e percebeu que existem diferentes parâmetros e propriedades que podem ser manipulados para alcançar esse objetivo. No entanto, ela não tem certeza qual é o parâmetro correto a ser utilizado. Com base na necessidade de aumentar o zoom de uma imagem no código fonte, assinale a alternativa que indica o parâmetro mais apropriado a ser manipulado:
+
+A - setResolution.
+B - setEscale.
+C = setZoom.
+D = setOpacity.
+E - setSize
+
+2) O pensamento educacional pode ser dividido em quatro eixos estruturantes: decomposição, abstração, reconhecimento de padrões e algoritmos. Preferencialmente, o pensamento educacional deve ser ensinado:
+
+A - A partir do Nível Superior, para alunos dos cursos de Tecnologia da Informação.
+B - A partir do Nível Superior, para alunos de todos os cursos.
+C - A partir do Ensino Médio, para alunos que desejam cursar a área de exatas.
+D - A partir do Ensino Médio, para todos os alunos.
+E - Desde o Ensino Fundamental, para todos os alunos.
+
+3) Uma agência de design gráfico está trabalhando em um projeto que exige a criação de gráficos digitais e ilustrações com uma paleta de cores rica e diversificada. Por que a agência deve utilizar o modelo RGB para este projeto?
+
+A = Para simplificar a estrutura de dados dos gráficos
+B - Para reduzir o tempo de processamento das imagens
+C - Para facilitar a conversão das imagens para grayscale
+D = Para facilitar a conversão das imagens para grayscale
+E - Para reduzir a quantidade de dados armazenados
+
+4) Uma empresa de tecnologia está desenvolvendo um sistema de visão computacional para reconhecimento facial em tempo real. Por que a empresa deve utilizar imagens em grayscale para o sistema de visão computacional?
+
+A- Para aumentar o uso de memória do sistema
+B- Para simplificar a identificação de áreas homogêneas
+C- Para melhorar a qualidade visual das imagens de reconhecimento
+D- Para permitir a criação de gráficos coloridos
+E- Para garantir a consistência das cores nas imagens
+
+5) Um hospital utiliza imagens para diagnosticar doenças. Recentemente, eles decidiram implementar um sistema de processamento de imagens para analisar raios-X e tomografias. Por que o hospital deve usar imagens em grayscale para este sistema?
+
+A-Para melhorar a fidelidade das cores das imagens
+B-Para reduzir o tempo e a complexidade do processamento das imagens
+C-Para criar imagens artísticas dos exames médicos
+D-Para facilitar a impressão colorida dos relatórios médicos
+E-Para garantir que todas as imagens tenham a mesma resolução
