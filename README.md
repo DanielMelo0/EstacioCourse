@@ -6,4 +6,6 @@
 - Processos eficientes de recrutamento e seleção são essenciais para atrair os melhores talentos.
 
 
-![preview img](/preview.jpg)
+![preview img](/preview.jpg) 
+
+![preview img](/preview2.jpg)
