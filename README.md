@@ -8,4 +8,4 @@
 
 ![preview img](/preview.jpg) 
 
-![preview img](/preview2.jpg)
+![preview img](/preview2.avif)
